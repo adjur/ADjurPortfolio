@@ -1,5 +1,3 @@
-Andi Djurdjevic’s Portfolio
-
 Welcome to my personal portfolio on GitHub! This site showcases my expertise and projects as a web developer, with a strong emphasis on React, CSS, HTML, JavaScript, and JSX.
 
 Live Demo
