@@ -1,8 +1,5 @@
 Welcome to my personal portfolio on GitHub! This site showcases my expertise and projects as a web developer, with a strong emphasis on React, CSS, HTML, JavaScript, and JSX.
 
-Live Demo
-Click the link above to view a live demo of my portfolio, hosted using GitHub Pages.
-
 -Features-
 
 React: Utilized to build a scalable and efficient user interface.
