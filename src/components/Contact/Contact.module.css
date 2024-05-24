@@ -1,5 +1,9 @@
 @import "../../vars.css";
 
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .container {
     color: var(--color-text);
     margin-top: 120px;
@@ -10,18 +14,20 @@
     width: 100vw;
     padding: 58px 10%;
     gap: 10px;
+
 }
 
 .text h2 {
     font-size: 80px;
     font-weight: 700;
     letter-spacing: 4px;
+    ;
 }
 
 .text p {
     font-size: 40px;
     font-weight: 400;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 
 .links {

@@ -22,8 +22,8 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("serverIcon.png")} alt="Server icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
-                            <p>I have experience developing fast and optimized back-end systems and APIs</p>
+                            <h3>Backend Application</h3>
+                            <p>I have experience with backend integration including fetching and utilizing data from various external APIs</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
