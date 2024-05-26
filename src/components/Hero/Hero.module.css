@@ -51,6 +51,11 @@
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+img {
+    border-radius: 50%;
+    margin: 30px;
+}
+
 .heroImg {
     width: 50%;
     z-index: 1;
@@ -69,6 +74,7 @@
     50% {
         transform: translate(0, 10px);
     }
+
     100% {
         transform: translate(0, -0px);
     }
@@ -87,6 +93,7 @@
     filter: blur(100px);
     z-index: 0;
 }
+
 .bottomBlur {
     position: absolute;
     width: 70vw;
