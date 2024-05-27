@@ -8,10 +8,13 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  height: fit-content;
 }
 
 .image {
   margin-bottom: 26px;
+  border-radius:  15px;
+  height: 320px;
 }
 
 .title {
@@ -23,6 +26,7 @@
   margin-top: 6px;
   font-size: 25px;
   font-weight: 400;
+  height: 120px;
 }
 
 .skills {
