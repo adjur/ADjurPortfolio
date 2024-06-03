@@ -1,26 +1,40 @@
 [
-    {
-      "title": "Wordle Clone",
-      "imageSrc": "projects/wordleClone.png",
-      "description": "This is a clone of the popular word-guessing game Wordle from The New York Times.",
-      "skills": ["HTML", "CSS", "Javascript"],
-      "demo": "https://adjur.github.io/WordleClone/",
-      "source": "https://github.com/adjur/WordleClone"
-    },
-    {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Wordle Clone",
+    "imageSrc": "projects/wordleClone.png",
+    "description": "This is a clone of the popular word-guessing game Wordle from The New York Times.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "demo": "https://adjur.github.io/WordleClone/",
+    "source": "https://github.com/adjur/WordleClone"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sass"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Horizon Banking",
+    "imageSrc": "projects/horizonSignInPage.png",
+    "description": "Horizon is a modern banking platform for everyone.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "ChartJS",
+      "Tailwind"
+    ],
+    "demo": "https://horizon-banking-jade.vercel.app/",
+    "source": "https://github.com/adjur/HorizonBanking"
+  }
+]
