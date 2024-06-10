@@ -26,5 +26,25 @@
     {
         "title": "Figma",
         "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Tailwind",
+        "imageSrc": "skills/tailwind.png"
+    },
+    {
+        "title": "Vite",
+        "imageSrc": "skills/vite.png"
+    },
+    {
+        "title": "Material UI",
+        "imageSrc": "skills/mui.png"
+    },
+    {
+        "title": "Chart.js",
+        "imageSrc": "skills/chartjs.png"
+    },
+    {
+        "title": "Typescript",
+        "imageSrc": "skills/typescript.png"
     }
 ]
