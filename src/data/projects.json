@@ -2,7 +2,7 @@
   {
     "title": "Wordle Clone",
     "imageSrc": "projects/wordleClone.png",
-    "description": "This is a clone of the popular word-guessing game Wordle from The New York Times.",
+    "description": "A customized clone of the popular word-guessing game Wordle from The New York Times.",
     "skills": [
       "HTML",
       "CSS",
@@ -12,17 +12,17 @@
     "source": "https://github.com/adjur/WordleClone"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Cocktail Craft",
+    "imageSrc": "projects/cocktail-craft.png",
+    "description": "Discover the perfect cocktail recipes with the ingredients you have at home.",
     "skills": [
       "React",
-      "Express",
-      "Node",
-      "Sass"
+      "Restful APIs",
+      "React Hooks",
+      "MUI"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://cocktail-craft.vercel.app/",
+    "source": "https://github.com/adjur/cocktailCraft"
   },
   {
     "title": "Horizon Banking",
