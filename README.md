@@ -1,6 +1,6 @@
 # Welcome to My Personal Portfolio on GitHub! 🎉
 
-[View my portfolio here!](https://andidjportfolio.netlify.app/)
+[View my portfolio here!](https://a-djur-portfolio.vercel.app/)
 
 Explore my journey as a web developer through this curated collection of projects, where I leverage the power of React, CSS, HTML, JavaScript, and JSX. 
 
